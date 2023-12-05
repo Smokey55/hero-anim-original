@@ -866,6 +866,7 @@ class Gradient {
  * Useful functions
  * Gradient.toggleColor(index)
  * Gradient.updateFrequency(freq)
+ *
  */
 
 var gradient = new Gradient();
